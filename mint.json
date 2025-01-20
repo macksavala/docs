@@ -22,12 +22,12 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Nexus App",
+    "url": "https://app.mynexus.io"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Video Tutorials",
       "url": "api-reference"
     }
   ],
