@@ -1,6 +1,6 @@
 # Nexus Help Center
 
-Visit [www.docs.mynexus.io](https://www.docs.mynexus.io) to find guides and other helpful information about Nexus.
+Visit [docs.mynexus.io](https://docs.mynexus.io) to find guides and other helpful information about Nexus.
 
 #### Technical Support
 
