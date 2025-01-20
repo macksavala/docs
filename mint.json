@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/nexus-red.svg",
-    "light": "/logo/nexus-white.svg"
+    "dark": "/logo/nexus-white.svg",
+    "light": "/logo/nexus-red.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
