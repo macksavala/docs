@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:help@mynexus.io"
     }
   ],
   "topbarCtaButton": {
@@ -27,30 +27,27 @@
   },
   "tabs": [
     {
-      "name": "Video Tutorials",
-      "url": "api-reference"
+      "name": "I'm a Volunteer",
+      "url": "volunteer"
+      "name": "I'm a Campaign",
+      "url": "campaign"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Nexus Website",
+      "icon": "globe",
+      "url": "https://mynexus.io"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Submit Feedback",
+      "icon": "star",
+      "url": "https://mynexus.io/feedback"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Nexus Help Center",
       "pages": [
         "introduction",
         "quickstart",
