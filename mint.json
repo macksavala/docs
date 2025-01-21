@@ -28,9 +28,7 @@
   "tabs": [
     {
       "name": "I'm a Volunteer",
-      "url": "volunteer",
-      "name": "I'm a Campaign",
-      "url": "campaign"
+      "url": "volunteer"
     }
   ],
   "anchors": [
