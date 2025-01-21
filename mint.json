@@ -28,11 +28,11 @@
   "tabs": [
     {
         "name": "Volunteer Guides",
-        "url": "api-references"
+        "url": "volunteer"
     },
     {
         "name": "Campaign Guides",
-        "url": "content"
+        "url": "campaign"
     }
 ],
   "anchors": [
