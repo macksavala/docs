@@ -27,14 +27,10 @@
   },
   "tabs": [
     {
-        "name": "Volunteer Guides",
-        "url": "/volunteer"
-    },
-    {
-        "name": "Campaign Guides",
-        "url": "/campaign"
+      "name": "API Reference",
+      "url": "api-reference"
     }
-],
+  ],
   "anchors": [
     {
       "name": "Nexus Website",
